@@ -1,5 +1,4 @@
-# angular2-registration-login-example-webpack
+# Angular2 + Bootstrap
 
-Angular 2 User Registration and Login Example with Webpack
-
-To see a demo and further details go to http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial
+1. npm install
+2. npm run start
