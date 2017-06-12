@@ -39,6 +39,5 @@ export class LoginComponent  implements OnInit {
             //     });
              
              this.router.navigate([this.returnUrl]);
-             console.log(" IN LoginComponent Current User", this.authService.getLocalDataStroe().getItem('currentUser'));
     }
 } 
